@@ -33,7 +33,7 @@ $('#test').inputpicker({
 
 ## Demo and Document
 
-http://inputpicker.ukalpa.com
+https://www.inputpicker.com/
 
 
 ## License
