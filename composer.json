@@ -14,7 +14,7 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "bower-asset/jquery-ui": "*"
+        "bower-asset/jquery": "*"
     },
     "repositories": [
         {
