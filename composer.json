@@ -1,7 +1,7 @@
 {
     "name": "egmsystems/j-query-inputpicker",
     "description": "forked from ukalpa/inputpicker to add composer",
-    "keywords": ["js", "jQuery"],
+    "keywords": ["js", "jquery-ui"],
     "homepage": "http://www.inputpicker.com",
     "type": "project",
     "license": "MIT",
@@ -14,7 +14,7 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "bower-asset/jquery": "*"
+        "bower-asset/jquery-ui": "*"
     },
     "repositories": [
         {
